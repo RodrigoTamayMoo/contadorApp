@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContadorApp</string>
+    <string name="texto_titulo"> Conteo </string>
+    <string name="texto_contador"> 0 </string>
+    <string name="texto_conteo"> Contar </string>
+    <string name="texto_reiniciar"> Reiniciar </string>
+</resources>
